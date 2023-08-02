@@ -1,5 +1,5 @@
 # Women vs John 
-Data visualisation project, using pandas and plotly, which won the Hack4Her 2023 hackathon. \
+Data visualisation project, using dash, numpy, pandas and plotly, which won the Hack4Her 2023 hackathon. \
 Made with [Elena Stroiu](https://github.com/EStroiu) within a weekend, reusing some code from Hack4Her 2022 (kudos to [Red](https://github.com/RedKinda)).
 
 ## Dataset 
