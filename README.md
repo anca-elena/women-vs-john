@@ -5,7 +5,7 @@ Made with [Elena Stroiu](https://github.com/EStroiu) within a weekend, reusing s
 ## Dataset 
 We were given a [dataset](https://www.levels.fyi/js/salaryData.json) from [levels.fyi](https://www.levels.fyi/?compare=Adobe,Amazon,IBM&track=Software%20Engineer). 
 This data contains information about gender, years of experience, years within a company, and compensation given (in stocks, salary, bonuses etc.). \
-Unfortunately, data about age, level of experience, ethnicity etc. was not available to us.
+Unfortunately, data about age, level of education, ethnicity etc. was not available to us.
 
 ### ! Fair warning !
 This data is self-reported, often incomplete and sometimes plain wrong. We tried to clean up the data and fix discrepancies (e.g.: some reported salary as "100k", others as "100000"). \
