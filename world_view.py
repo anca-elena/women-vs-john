@@ -7,7 +7,8 @@ import plotly.express as px
 from dash import Dash, dcc, html, Output, Input
 
 # Provided data
-data = requests.get('https://www.levels.fyi/js/salaryData.json').json()
+with open('salaryData.json') as f:
+    data = json.load(f)
 job_data = pd.DataFrame(data)
 
 job_data[['city', 'state', 'country']] = job_data['location'].str.split(', ', n=2, expand=True)

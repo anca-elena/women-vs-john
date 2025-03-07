@@ -2,6 +2,9 @@
 Data visualisation project, using dash, numpy, pandas and plotly, which won the Hack4Her 2023 hackathon. \
 Made with [Elena Stroiu](https://github.com/EStroiu) within a weekend, reusing some code from Hack4Her 2022 (kudos to [Red](https://github.com/RedKinda)).
 
+## Usage
+There are two separate files. To see a map of countries, run `python3 world_view.py`. To see a scatterplot, run `python3 john-salary.py`. 
+
 ## Dataset 
 We were given a [dataset](https://www.levels.fyi/js/salaryData.json) from [levels.fyi](https://www.levels.fyi/?compare=Adobe,Amazon,IBM&track=Software%20Engineer). 
 This data contains information about gender, years of experience, years within a company, and compensation given (in stocks, salary, bonuses etc.). \
